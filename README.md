@@ -1,4 +1,7 @@
-# electron-quick-start
+# Map Track for Minecraft
+An electron app for tracking a players movement and creating a 3D model in live time that can be used for referencing position.
+
+## electron-quick-start
 
 **Clone and run for a quick way to see Electron in action.**
 
